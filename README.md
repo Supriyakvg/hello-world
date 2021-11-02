@@ -3,4 +3,4 @@ Practice Repository
 
 Hi Guys,
 
- I'm cloud practionaire , I like knowing anf working on all new cloud services
+ I'm cloud practionaire , I like knowing and working on all new cloud services
